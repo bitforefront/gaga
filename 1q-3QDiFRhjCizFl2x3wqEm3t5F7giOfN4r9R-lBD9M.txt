@@ -1,0 +1,21 @@
+{
+  "name": "Gaga",
+  "symbol": "Gaga",
+  "description": "Gaga Meme Token",
+  "image": "https://gateway.irys.xyz/ZPrQkBMbpH9Q1QvH56nu9aQzVDPIElH_iy-Yl-rRXg0",
+  "extensions": {
+    "website": "https://bizforefront.xyz",
+    "telegram": "https://t.me/gagabff",
+    "twitter": "https://twitter.com/bitforefront"
+  },
+  "creator": {
+    "name": "Bitforefront",
+    "website": "https://bitforefront.xyz",
+    "telegram": "https://t.me/gagabff"
+  },
+  "tags": [
+    "Meme",
+    "Gaga",
+    "Bff"
+  ]
+}
